@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {"name": "Carlo", "img" : "Carlo.jpeg", "job" : "Fisherman"},
+        {"name": "Christian", "img" : "Christian.jpeg", "job" : "Accountant"},
+        {"name": "Frederic", "img" : "Frederic.jpeg", "job" : "Footballer"},
+        {"name": "Jon", "img" : "Jon.jpeg", "job" : "Haidresser"},
+        {"name": "Mireille", "img" : "Mireille.jpeg", "job" : "Psychiatrist"},
+        {"name": "Tom", "img" : "Tom.jpeg", "job" : "Butcher"},
+        {"name": "Chantal", "img" : "Chantal.jpeg", "job" : "Teacher"},
+        {"name": "Emilie", "img" : "Emilie.jpeg", "job" : "Intern"},
+        {"name": "Ilary", "img" : "Ilary.jpeg", "job" : "Baker"},
+        {"name": "Kevin", "img" : "Kevin.jpeg", "job" : "Magicien"},
+        {"name": "Patricia", "img" : "Patricia.jpeg", "job" : "Homeopath"},
+        {"name": "William", "img" : "William.jpeg", "job" : "Rider"}
+    ]
+}
