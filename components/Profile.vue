@@ -17,7 +17,7 @@ export default {
 <style lang="scss" scoped>
 
 .card {
-    margin: 20px;
+    margin: 15px;
     padding: 20px 0px;
     border-radius: 10px;
     background-color: #56BDF5;

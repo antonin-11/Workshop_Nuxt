@@ -15,7 +15,9 @@
 </template>
 
 <script>
+import Profile from '../components/Profile.vue'
 export default {
+    components: { Profile },
   name: 'IndexPage',
   data: function () {
     return {
@@ -81,8 +83,14 @@ export default {
 .resultList {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  /* justify-content: space-b; */
   width: 90%;
-  margin: 0px 5%;
+  max-width: 1250px;
+  margin: 30px auto;
+}
+
+::placeholder {
+  color: white;
+  opacity: 0.6;
 }
 </style>
